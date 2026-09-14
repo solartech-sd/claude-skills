@@ -1,0 +1,11 @@
+{
+  "name": "solartech-skills",
+  "owner": "solartech-sd",
+  "plugins": [
+    {
+      "name": "solartech-brand",
+      "source": "./solartech-brand",
+      "description": "SolarTech 2026 brand guidelines: colors, typography, logo rules, voice, and writing standards for building pages and copy."
+    }
+  ]
+}
